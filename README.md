@@ -25,7 +25,6 @@ By the end of this lab, I was able to:
 
 2. **Client initialization**
    - Created a `ChatCompletionsClient` using `AzureKeyCredential`.
-   - Verified the connection with a simple Q&A question (“What is the capital of France?”).
 
 3. **Prompt and summarization logic**
    - Wrote a prompt that instructs the model to:
@@ -40,8 +39,7 @@ By the end of this lab, I was able to:
    - Exported the Colab notebook to `.ipynb` and added it to the `notebooks/` folder.
 
 5. **Repository organization**
-   - Created the required folders: `notebooks/`, `outputs/`, and optional `assets/`.
-   - Captured screenshots from the Playground / terminal and saved them in `assets/`.
+   - Created the required folders: `notebooks/`, `outputs/`.
 
 ---
 
@@ -53,34 +51,11 @@ You can open and run the Colab notebook here:
 
 The exported notebook file is also included in this repo:
 
-- `notebooks/genai_summarizer.ipynb`
+- `notebooks/Summarizer.ipynb`
 
 ---
 
 
 
-## 6. Summary of the Mini Project
 
-This mini project demonstrates how to use GitHub Models through the `azure-ai-inference` SDK to perform **automatic text summarization**.
-
-- The model used: `meta/Llama-4-Scout-17B-16E-Instruct`.
-- Input: A long paragraph about **Generative AI**.
-- Output: **Exactly three concise bullet points** capturing:
-  - What generative AI is and what it can create.
-  - How it relies on deep learning models and large datasets.
-  - Its impact on industry adoption and productivity.
-
-The project shows a simple but practical pattern for:
-- Connecting to a hosted LLM endpoint.
-- Designing a clear, constraint-based prompt.
-- Saving and organizing experiments and outputs inside a reproducible GitHub repository.
-
----
-
-## 7. How to Run This Project Locally (Optional)
-
-1. Clone the repo:
-   ```bash
-   git clone <YOUR_REPO_URL>.git
-   cd <YOUR_REPO_NAME>
 
