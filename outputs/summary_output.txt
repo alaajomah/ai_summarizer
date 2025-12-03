@@ -1,0 +1,3 @@
+• Generative AI creates original content like text, images, and code in response to user prompts.
+• It relies on deep learning models that simulate human brain processes to identify patterns in data and generate relevant content.
+• Generative AI is being rapidly adopted, with 1/3 of organizations already using it and 80% expected to deploy it by 2026.
