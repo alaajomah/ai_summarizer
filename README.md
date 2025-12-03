@@ -1,6 +1,4 @@
 # ai_summarizer
-# Mini project using GitHub Models summarizer
-# GitHub Models Text Summarizer – Lab
 
 ## 1. Lab Title
 
